@@ -115,14 +115,3 @@ flowchart LR
 
 Your live dashboard will be at `https://your-app.vercel.app`.
 
----
-
-## CV / Portfolio
-
-You can use this in a resume or portfolio:
-
-**Crypto Market Intelligence Engine** — [Live link]
-
-- Real-time crypto volatility and liquidity monitoring with rolling z-score anomaly detection and composite risk scoring.
-- Built a cloud-deployed pipeline (Next.js, Neon Postgres, CoinGecko) with in-dashboard anomaly messages and AI-generated incident summaries (Groq).
-- Designed for one-link demo: risk gauges, time-series charts, and incident reports with no signup required.
